@@ -1,0 +1,45 @@
+Diagnostic values: 
+ 
+Test 
+mmol/l 
+mg/dl 
+Fasting blood glucose (FBG)a,b 
+=7 
+=126 
+Random plasma glucose (RPG)b 
+=11.1 
+=200 
+Plasma glucose two hours after a 75 g 
+Oral glucose load-OGTTb 
+=11.1 
+=200 
+HaemoglobinA1c 
+=48 
+=6.5% 
+ 
+Treatment goal 
+HbA1c < 7% is generally considered to be adequate glycaemic control. If not available, fasting plasma 
+glucose (FPG<7.0mmol/l or <125 mg/dl) 
+ 
+Pharmacological treatment 
+Metformin is recommended as the first-line medicine in the treatment of diabetes. Sulfonylurea is 
+recommended as the second-line treatment, and human insulin as the third-line treatment. 
+ 
+Control of blood pressure and blood lipids 
+Hypertension treatment is indicated when SBP ≥130 and/or DBP ≥80. Statins are recommended for 
+all people with type 2 diabetes older than 40 years, but only if this does not negatively impact access 
+to glucose-lowering and blood pressure - lowering medication. 
+ 
+FOLLOWUP 
+Monitoring glycaemic control 
+ 
+o When diabetes is diagnosed, monitor glycaemic control every three months until diabetes is 
+controlled, then every six months after that. 
+ 
+o HbA1c is the most accurate measurement of long-term glycaemic control and represents the 
+average blood glucose over the previous two to three months. HbA1c < 7% is generally considered 
+to be adequate glycaemic control. In people with frequent severe hypoglycaemia, severe 
+complications and low life-expectancy, the goal for HbA1c could be relaxed, e.g. to<8%. 
+ 
+o Fasting plasma glucose (FPG<7.0mmol/l or <125 mg/dl) can also be used to monitor control 
+when HbA1c testing is not available. 
