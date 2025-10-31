@@ -1,0 +1,13 @@
+# Core PDF extraction libraries
+PyMuPDF==1.24.10
+pdfplumber==0.11.2
+pdfminer.six==20231228
+PyPDF2==3.0.1
+pypdf==4.2.0
+
+# Data handling and Jupyter support
+pandas==2.2.3
+jupyter==1.1.1
+
+# Optional dependencies (used in some scripts)
+pillow==10.4.0   # for image handling
